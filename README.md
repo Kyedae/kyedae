@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kyedae</h1>
 <h3 align="center">A passionate learning developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/964151072883101787/992385460871630848/77f388b29d2c1ee38cc4b9991d0facf5.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/964151072883101787/992392269158154301/9e8bca37d0e88e65f995d2f941688412.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kyedae&label=Profile%20views&color=0e75b6&style=flat" alt="kyedae" /> </p>
 
